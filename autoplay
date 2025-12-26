@@ -5,7 +5,7 @@ local player = Players.LocalPlayer
 
 local whitelist = {
     ["ZzNoobvnzZ1991"] = true,
-    ["TenNguoiMua1"] = true,
+    ["noobdzaicojsai123"] = true,
     ["TenNguoiMua2"] = true,
     ["TenNguoiMua3"] = true
 }
