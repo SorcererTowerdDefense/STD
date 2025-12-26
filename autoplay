@@ -92,11 +92,11 @@ Func.UpgradeTower:InvokeServer(workspace.Towers.TreeOfLife4)
 waitIf(8600)
 Func.UpgradeTower:InvokeServer(workspace.Towers.StrongestSorcererEvo)
 waitIf(11400)
-Func.UpgradeTower:InvokeServer(workspace.Towers.StrongestSorcererEvo1)
-waitIf(25100)
 Func.UpgradeTower:InvokeServer(workspace.Towers.StrongestSorcererEvo2)
-waitIf(36400)
+waitIf(25100)
 Func.UpgradeTower:InvokeServer(workspace.Towers.StrongestSorcererEvo3)
+waitIf(36400)
+Func.UpgradeTower:InvokeServer(workspace.Towers.StrongestSorcererEvo4)
 
 -- ===========================
 -- REPLAY LOOP
